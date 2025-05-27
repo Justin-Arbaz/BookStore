@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "name": "Storybook",
+        "title": "lorem ipsum dolor sit amet, consectetur adipiscing.",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?ga=GA1.1.674850402.1747598691&semt=ais_hybrid&w=740"
+    },
+    {
+        "id": 2,
+        "name": "React",
+        "title": "lorem ipsum dolor sit amet, consectetur adipiscing.",
+        "price": 220,
+        "category": "programming",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?ga=GA1.1.674850402.1747598691&semt=ais_hybrid&w=740"
+    },
+    {
+        "id": 3,
+        "name": "Vue",
+        "title": "lorem ipsum dolor sit amet, consectetur adipiscing.",
+        "price": 550,
+        "category": "technology",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?ga=GA1.1.674850402.1747598691&semt=ais_hybrid&w=740"
+    },
+    {
+        "id": 4,
+        "name": "Angular",
+        "title": "lorem ipsum dolor sit amet, consectetur adipiscing.",
+        "price": 400,
+        "category": "paid",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?ga=GA1.1.674850402.1747598691&semt=ais_hybrid&w=740"
+    },
+    {
+        "id": 5,
+        "name": "Svelte",
+        "title": "lorem ipsum dolor sit amet, consectetur adipiscing.",
+        "price": 500,
+        "category": "sports",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?ga=GA1.1.674850402.1747598691&semt=ais_hybrid&w=740"
+    },
+    {
+        "id": 6,
+        "name": "Next.js",
+        "title": "lorem ipsum dolor sit amet, consectetur adipiscing.",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?ga=GA1.1.674850402.1747598691&semt=ais_hybrid&w=740"
+    },
+    {
+        "id": 7,
+        "name": "Gatsby",
+        "title": "lorem ipsum dolor sit amet, consectetur adipiscing.",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?ga=GA1.1.674850402.1747598691&semt=ais_hybrid&w=740"
+    },
+    {
+        "id": 8,
+        "name": "Nuxt.js",
+        "title": "lorem ipsum dolor sit amet, consectetur adipiscing.",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?ga=GA1.1.674850402.1747598691&semt=ais_hybrid&w=740"
+    },
+    {
+        "id": 9,
+        "name": "Remix",
+        "title": "lorem ipsum dolor sit amet, consectetur adipiscing.",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?ga=GA1.1.674850402.1747598691&semt=ais_hybrid&w=740"
+    },
+    {
+        "id": 10,
+        "name": "Astro",
+        "title": "lorem ipsum dolor sit amet, consectetur adipiscing.",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?ga=GA1.1.674850402.1747598691&semt=ais_hybrid&w=740"
+    }
+]
